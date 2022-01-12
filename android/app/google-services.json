@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047405863988",
+    "project_id": "multi-projects-86c0a",
+    "storage_bucket": "multi-projects-86c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047405863988:android:1e454331b1729604d01661",
+        "android_client_info": {
+          "package_name": "com.example.chairs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047405863988-fad8djj9odq76u68d6ordvl720cpcb36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpdAuXQbjPojHs-ebJbD2b39MEZcry3q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047405863988-fad8djj9odq76u68d6ordvl720cpcb36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
