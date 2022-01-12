@@ -2,15 +2,34 @@
 
 A new Flutter project.
 
-## Getting Started
+## Used Lib
 
-This project is a starting point for a Flutter application.
+1- provider
+2- cloud_firestore
+3- firebase_storage
+4- image_picker
+5- flutter_form_builder
 
-A few resources to get you started if this is your first Flutter project:
+## screens 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1- home at https://github.com/ZeraW/chairs/blob/master/lib/ui_screens/home.dart
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2- DetailsScreen at https://github.com/ZeraW/chairs/blob/master/lib/ui_screens/chairs_management/details_screen/details.dart
+
+3- add note at https://github.com/ZeraW/chairs/blob/master/lib/ui_screens/chairs_management/add_edit_notes/add_visual_note.dart
+
+4- edit note at https://github.com/ZeraW/chairs/blob/master/lib/ui_screens/chairs_management/add_edit_notes/edit_visual_note.dart
+
+
+## models 
+
+only one modle at https://github.com/ZeraW/chairs/blob/master/lib/models/db_model.dart
+
+## Providers
+
+providers files https://github.com/ZeraW/chairs/tree/master/lib/provider
+
+## Firebase
+
+https://github.com/ZeraW/chairs/tree/master/lib/
+
